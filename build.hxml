@@ -1,0 +1,3 @@
+-lib tink_await
+-main Main
+-js test.js
